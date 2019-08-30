@@ -1,9 +1,7 @@
 #Spotify cover colors
 from PIL import Image
 import numpy as np
-import operator
 import pymeanshift as pms
-from matplotlib import pyplot as plt
 
 height = 0 
 width = 0
